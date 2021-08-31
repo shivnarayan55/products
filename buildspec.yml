@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/shop-it-security.jar
+    - target/shop-it-products.jar
   discard-paths: yes
